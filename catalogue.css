@@ -12,3 +12,27 @@
     border: 2px solid coral;
     box-sizing: border-box;
 }
+.image3{
+    width: 50%;
+    height: 10cm;
+    border: 2px solid coral;
+    box-sizing: border-box;
+}
+
+.image1{
+    width: 50%;
+    height: 10cm;
+    border: 2px solid coral;
+    box-sizing: border-box;
+}
+.image2{
+    float: right;
+    width: 50%  ;
+    height: 10cm;
+    border-color: red;
+    border: 2px solid coral;
+    box-sizing: border-box;
+}
+body{
+    background-color: brown;
+}
