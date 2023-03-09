@@ -6,7 +6,7 @@
 }
 
 header{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://www.google.com/search?q=audi+r8&rlz=1C1PNJJ_frBE1028BE1028&sxsrf=AJOqlzXYLpSDtuCgt88bFnvjLVQuc8anaw:1678354735795&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjd5dXOxs79AhURCuwKHexDB1wQ_AUoAXoECAEQAw&biw=1366&bih=657&dpr=1#imgrc=Ax9ctCCVjvfwyM);
+    background-image: url(audi.jpg);
     height: 100vh;
     background-size: cover;
     background-position: center;
