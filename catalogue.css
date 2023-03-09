@@ -13,6 +13,32 @@
     border: 2px solid rgb(0, 0, 0);
     box-sizing: border-box;
 }
+<<<<<<< HEAD
 body{
     background-color: rgb(44, 196, 183);
+=======
+.image3{
+    width: 50%;
+    height: 10cm;
+    border: 2px solid coral;
+    box-sizing: border-box;
+}
+
+.image1{
+    width: 50%;
+    height: 10cm;
+    border: 2px solid coral;
+    box-sizing: border-box;
+}
+.image2{
+    float: right;
+    width: 50%  ;
+    height: 10cm;
+    border-color: red;
+    border: 2px solid coral;
+    box-sizing: border-box;
+}
+body{
+    background-color: brown;
+>>>>>>> master
 }
